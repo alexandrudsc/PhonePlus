@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright © 2014 Alexandru Dascălu.
+  ~ com.alex.independent.developer
+  -->
+
+<resources>
+
+    <string-array name="languages">
+
+        <item>English (Great Britain)</item>
+        <item>English (United States)</item>
+        <item>Français (France)</item>
+        <item>Deutsch (Deutschland)</item>
+        <item>Italiano (Italia)</item>
+        <item>Español (España)</item>
+    </string-array>
+    
+    <string-array name="languages_code">
+        <item>en_GB</item>
+        <item>en_US</item>
+        <item>fr_FR</item>
+        <item>de_DE</item>
+        <item>it_IT</item>
+        <item>spa_SPA</item>
+    </string-array>
+
+    <string-array name="translations">
+
+        <item>Index</item>
+        <item>Calls</item>
+        <item>Contacts</item>
+        <item>0 days ago</item>
+        <item>1 day ago</item>
+        <item>2 days ago</item>
+        <item>3 days ago</item>
+        <item>4 days ago</item>
+        <item>5 days ago</item>
+        <item>6 days ago</item>
+        <item>7 days ago</item>
+        <item>8 days ago</item>
+        <item>9 days ago</item>
+        <item>10 days ago</item>
+        <item>11 days ago</item>
+        <item>12 days ago</item>
+        <item>13 days ago</item>
+        <item>14 days ago</item>
+        <item>15 days ago</item>
+        <item>16 days ago</item>
+        <item>17 days ago</item>
+        <item>18 days ago</item>
+        <item>19 days ago</item>
+        <item>20 days ago</item>
+        <item>21 days ago</item>
+        <item>22 days ago</item>
+        <item>23 days ago</item>
+        <item>24 days ago</item>
+        <item>25 days ago</item>
+
+        <item>Index</item>
+        <item>Appels</item>
+        <item>Contacts</item>
+        <item>il ya 0 jours</item>
+        <item>il ya 1 jour</item>
+        <item>il ya 2 jours</item>
+        <item>il ya 3 jours</item>
+        <item>il ya 4 jours</item>
+        <item>il ya 5 jours</item>
+        <item>il ya 6 jours</item>
+        <item>il ya 7 jours</item>
+        <item>il ya 8 jours</item>
+        <item>il ya 9 jours</item>
+        <item>il ya 10 jours</item>
+        <item>il ya 11 jours</item>
+        <item>il ya 12 jours</item>
+        <item>il ya 13 jours</item>
+        <item>il ya 14 jours</item>
+        <item>il ya 15 jours</item>
+        <item>il ya 16 jours</item>
+        <item>il ya 17 jours</item>
+        <item>il ya 18 jours</item>
+        <item>il ya 19 jours</item>
+        <item>il ya 20 jours</item>
+        <item>il ya 21 jours</item>
+        <item>il ya 22 jours</item>
+        <item>il ya 23 jours</item>
+        <item>il ya 24 jours</item>
+        <item>il ya 25 jours</item>
+
+
+        <item>Index</item>
+        <item>Anrufe</item>
+        <item>Impressum</item>
+        <item>vor 0 Tagen</item>
+        <item>vor 1 Tag</item>
+        <item>vor 2 Tagen</item>
+        <item>vor 3 Tagen</item>
+        <item>vor 4 Tagen</item>
+        <item>vor 5 Tagen</item>
+        <item>vor 6 Tagen</item>
+        <item>vor 7 Tagen</item>
+        <item>vor 8 Tagen</item>
+        <item>vor 9 Tagen</item>
+        <item>vor 10 Tagen</item>
+        <item>vor 11 Tagen</item>
+        <item>vor 12 Tagen</item>
+        <item>vor 13 Tagen</item>
+        <item>vor 14 Tagen</item>
+        <item>vor 15 Tagen</item>
+        <item>vor 16 Tagen</item>
+        <item>vor 17 Tagen</item>
+        <item>vor 18 Tagen</item>
+        <item>vor 19 Tagen</item>
+        <item>vor 20 Tagen</item>
+        <item>vor 21 Tagen</item>
+        <item>vor 22 Tagen</item>
+        <item>vor 23 Tagen</item>
+        <item>vor 24 Tagen</item>
+        <item>vor 25 Tagen</item>
+
+
+        <item>Indice</item>
+        <item>Chiamate</item>
+        <item>Contatti</item>
+        <item>0 giorni fa</item>
+        <item>1 giorno fa</item>
+        <item>2 giorni fa</item>
+        <item>3 giorni fa</item>
+        <item>4 giorni fa</item>
+        <item>5 giorni fa</item>
+        <item>6 giorni fa</item>
+        <item>7 giorni fa</item>
+        <item>8 giorni fa</item>
+        <item>9 giorni fa</item>
+        <item>10 giorni fa</item>
+        <item>11 giorni fa</item>
+        <item>12 giorni fa</item>
+        <item>13 giorni fa</item>
+        <item>14 giorni fa</item>
+        <item>15 giorni fa</item>
+        <item>16 giorni fa</item>
+        <item>17 giorni fa</item>
+        <item>18 giorni fa</item>
+        <item>19 giorni fa</item>
+        <item>20 giorni fa</item>
+        <item>21 giorni fa</item>
+        <item>22 giorni fa</item>
+        <item>23 giorni fa</item>
+        <item>24 giorni fa</item>
+        <item>25 giorni fa</item>
+
+        <item>Index</item>
+        <item>llamadas</item>
+        <item>Contactos</item>
+        <item>hace 0 dias</item>
+        <item>hace un dia</item>
+        <item>hace 2 dias</item>
+        <item>hace 3 dias</item>
+        <item>hace 4 dias</item>
+        <item>hace 5 dias</item>
+        <item>hace 6 dias</item>
+        <item>hace 7 dias</item>
+        <item>hace 8 dias</item>
+        <item>hace 9 dias</item>
+        <item>hace 10 dias</item>
+        <item>hace 11 dias</item>
+        <item>hace 12 dias</item>
+        <item>hace 13 dias</item>
+        <item>hace 14 dias</item>
+        <item>hace 15 dias</item>
+        <item>hace 16 dias</item>
+        <item>hace 17 dias</item>
+        <item>hace 18 dias</item>
+        <item>hace 19 dias</item>
+        <item>hace 20 dias</item>
+        <item>hace 21 dias</item>
+        <item>hace 22 dias</item>
+        <item>hace 23 dias</item>
+        <item>hace 24 dias</item>
+        <item>hace 25 dias</item>
+
+    </string-array>
+
+
+    <string-array name="appearance_posibilities">
+        <item>Left-handed design</item>
+        <item>Right-handed design</item>
+    </string-array>
+
+    <string-array name="appearances">
+        <item>Left-handed design</item>
+        <item>Right-handed design</item>
+    </string-array>
+
+    <string-array name="speech_rate">
+        <item>Slow</item>
+        <item>Normal</item>
+        <item>Fast</item>
+    </string-array>
+
+    <string-array name="speech_rate_values">
+        <item>0.5</item>
+        <item>1.0</item>
+        <item>2.0</item>
+    </string-array>
+
+    <string-array name="tips">
+        <item>Tilt phone to right for expanding a selected group.</item>
+        <item>Tilt phone to left for exiting a group.</item>
+        <item>Shake phone for call.</item>
+        <item>Tilt and shake actions can be disabled: Settings->Sensors off.</item>
+        <item></item>
+        <item>To apply chosen preferences just restart the app.</item>
+        <item>Downloaded files with \"Language\" option are safe (signed by Google, Inc.).</item>
+        <item>\"Language\" option changes ONLY the language used by the speaking service.</item>
+        <item></item>
+        <item>Make sure you have imported all contacts to phone: People->Menu->Import->Import from SIM.</item>
+        <item>You can edit a contact by pressing the photo near it.</item>
+        <item>You can add a contact by touching the button near \"Settings\" button</item>
+    </string-array>
+
+    <string-array name="faq">
+        <item>Q: Why I have no contacts in my groups? </item>
+        <item>A: Make sure you have imported all contacts to phone.</item>
+        <item></item>
+        <item>Q: Why do I need acces to internet in order to change language?</item>
+        <item>A: The text to speech service needs to download it\'s files.Just turn on Wi-Fi and it will do the rest.</item>
+        <item></item>
+        <item>Q: How do I disable the voice?</item>
+        <item>A: Settings->Text to speech off</item>
+        <item></item>
+        <item>Q: Will the sensor consume the battery?</item>
+        <item>A: No.It is highly optimized.It will shut down when you do not need it.</item>
+    </string-array>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="horizontal"
+              android:baselineAligned="false">
+
+    <com.alexandru.developer.phoneplus.SideSelector
+            android:id="@+id/side_selector"
+            android:layout_width="0dip"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@android:color/transparent" />
+
+    <ListView
+            android:id="@+id/index_list"
+            android:layout_width="0dip"
+            android:layout_weight="1.8"
+            android:layout_height="match_parent"
+            android:choiceMode="singleChoice"
+            android:divider="@android:drawable/arrow_down_float"
+            android:background="@drawable/gradient"
+            android:focusableInTouchMode="false" >
+    </ListView>
+
+</LinearLayout>

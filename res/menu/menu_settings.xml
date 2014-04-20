@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  ~ Copyright © 2014 Alexandru Dascălu.
+  ~ com.alex.independent.developer
+  -->
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+            android:id="@+id/reset_settings"
+            android:orderInCategory="101"
+            android:showAsAction="never"
+            android:title="Reset to defaults">
+
+    </item>
+
+    <item
+        android:id="@+id/help_from_settings"
+        android:orderInCategory="102"
+        android:showAsAction="never"
+        android:title="Help"/>
+</menu>

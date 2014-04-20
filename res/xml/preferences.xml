@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  ~ Copyright © 2014 Alexandru Dascălu.
+  ~ com.alex.independent.developer
+  -->
+
+<PreferenceScreen
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout="@color/background_tab_pressed">
+
+    <PreferenceCategory
+        android:title="Text to speech">
+
+    <CheckBoxPreference
+            android:title="Text to speech"
+            android:key="text_to_speech"
+            android:summary="Use speaking service"
+            android:persistent="true"
+            android:defaultValue="true"
+            />
+
+    <ListPreference
+            android:title="@string/language_title"
+            android:key="@string/language_list"
+            android:persistent="true"
+            android:defaultValue="en_US"
+            android:summary="Language used by the speaking service"
+            android:entries="@array/languages"
+            android:entryValues="@array/languages_code">
+
+    </ListPreference>
+
+    <ListPreference
+            android:title="Speech rate"
+            android:key="speech_rate"
+            android:persistent="true"
+            android:summary="Tap to choose"
+            android:entries="@array/speech_rate"
+            android:entryValues="@array/speech_rate_values"
+            android:defaultValue="1.0"/>
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="Appearance">
+
+        <ListPreference
+            android:title="Design"
+            android:key="design"
+            android:persistent="true"
+            android:entries="@array/appearance_posibilities"
+            android:entryValues="@array/appearances"
+            android:defaultValue="Right-handed design"/>
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+            android:title="Modes">
+        <CheckBoxPreference
+                android:title="Sensors"
+                android:key="sensor"
+                android:defaultValue="true"
+                android:summary="Navigation by sensors"
+                android:persistent="true"
+                />
+        <CheckBoxPreference
+                android:title="Touches"
+                android:key="touch"
+                android:defaultValue="true"
+                android:summary="Navigation by touch"
+                android:persistent="true"/>
+        <CheckBoxPreference
+                android:title="Default use"
+                android:key="default_use"
+                android:summary="Use this app every time you receive or make a call"
+                android:defaultValue="false"
+                android:persistent="true"/>
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

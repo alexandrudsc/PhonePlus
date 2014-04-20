@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  ~ Copyright © 2014 Alexandru Dascălu.
+  ~ com.alex.independent.developer
+  -->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="horizontal"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <com.alexandru.developer.phoneplus.SideSelector
+            android:id="@+id/side_selector2"
+            android:layout_width="0dip"
+            android:layout_height="match_parent"
+            android:layout_weight="1" />
+
+    <ListView
+            android:id="@+id/missed_calls_list"
+            android:layout_width="0dip"
+            android:layout_weight="1.8"
+            android:layout_height="match_parent"
+            android:choiceMode="singleChoice"
+            android:divider="@android:drawable/arrow_down_float"
+            android:focusableInTouchMode="false"
+            android:background="@drawable/gradient">
+    </ListView>
+
+ </LinearLayout>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Phone+</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="appearance_name">Appearance</string>
+
+    <string name="language_title">Language</string>
+    <string name="language_list">languages_list</string>
+    <string name="english">en_US</string>
+    <string-array name="translations_EN">
+        <item>Index</item>
+        <item>Missed calls</item>
+        <item>Contacts</item>
+    </string-array>
+</resources>
